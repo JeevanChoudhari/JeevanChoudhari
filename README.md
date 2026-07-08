@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Jeevan+Choudhari+%7C+AI+Agent+Developer;Full+Stack+Engineer+%7C+Backend+%26+AI;Building+AI+Agents+that+actually+do+things;Designing+%26+Querying+Databases+(DBMS);Turning+Ideas+into+Deployed+Websites" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Jeevan+Choudhari+%7C+AI+Agent+Developer;Full+Stack+Engineer+%7C+Backend+%26+ML;Building+AI+Agents+that+actually+do+things;Designing+%26+Querying+Databases+(DBMS);Turning+Ideas+into+Deployed+Websites" alt="Typing SVG" />
 
 ### 🤖 AI Agent Developer &nbsp;|&nbsp; 🌐 Full Stack Engineer &nbsp;|&nbsp; 🗄️ DBMS
 
